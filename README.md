@@ -22,15 +22,6 @@ I am a recently graduated **Computer Engineer** transitioning into the professio
 
 ---
 
-### 📊 My GitHub Activity
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalarconro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalarconro&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 #### ⚽ FIFA 18 Data Analysis (https://github.com/dalarconro/FIFA18_Python_Analysis.git)
