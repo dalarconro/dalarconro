@@ -29,7 +29,7 @@ An in-depth exploratory data analysis (EDA) of the FIFA 18 players dataset.
 * **Key Insight:** Identified the non-linear correlation between player market value and potential, highlighting "bargain" players for career mode.
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 
-#### 📊 Employee Attrition Analysis (Coming Soon)
+#### 📊 Employee Attrition Analysis (https://github.com/dalarconro/powerbi_employee_attrition.git)
 A Power BI dashboard focused on HR Analytics to identify key factors behind employee turnover.
 * **Focus:** Data Visualization & Business Intelligence.
 
